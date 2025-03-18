@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -23,12 +24,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
