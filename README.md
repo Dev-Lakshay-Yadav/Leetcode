@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -37,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
