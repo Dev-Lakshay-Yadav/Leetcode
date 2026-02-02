@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0217-contains-duplicate) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
