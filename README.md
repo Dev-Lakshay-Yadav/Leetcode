@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
