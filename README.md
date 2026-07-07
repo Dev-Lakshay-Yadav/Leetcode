@@ -41,16 +41,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0217-contains-duplicate) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0204-count-primes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Enumeration
 |  |
 | ------- |
