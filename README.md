@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0053-maximum-subarray) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0217-contains-duplicate) |
