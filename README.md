@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0204-count-primes) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dev-Lakshay-Yadav/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
